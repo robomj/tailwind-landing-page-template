@@ -19,7 +19,7 @@ function SignUp() {
 
               {/* Page header */}
               <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-                <h1 className="h1">Welcome. We exist to make entrepreneurism easier.</h1>
+                <h1 className="h1">환영해요. 우리는 기업가주의(entrepreneurism)를 더 쉽게 만들기 위해 존재한다.</h1>
               </div>
 
               {/* Form */}
